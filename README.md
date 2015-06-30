@@ -24,6 +24,7 @@ Here is an example with two variables:
 ```
 yourAnimal = input('What is your favorite animal? ')
 myAnimal = "dog"
+
 if yourAnimal == myAnimal:
   print "That's my favorite animal, too!"
 ```
