@@ -16,18 +16,17 @@ Sometimes we only want our code to run if certain conditions are in place. If a 
 
 #Conditionals
 Conditional statements are a type of control flow: They can control which parts of code get executed, and which do not. The basic conditional statement is the if statement:
-```if condition_1:
+```
+if condition_1:
     run this block of code
 ```
 Here is an example with two variables:
-
 ```
 yourAnimal = input('What is your favorite animal? ')
 myAnimal = "dog"
 if yourAnimal == myAnimal:
   print "That's my favorite animal, too!"
 ```
-
 #Comparison Operator
 Notice the "==" in the if statement. When you use "==", you are asking "are the two things equal?". When you use a single "=", that's assignment - you're setting a variable to a value.
 
