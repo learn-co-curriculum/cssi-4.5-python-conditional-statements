@@ -29,8 +29,8 @@ if yourAnimal == myAnimal:
   print "That's my favorite animal, too!"
 ```
 #Comparison Operator
-Notice the "==" in the if statement. When you use "==", you are asking "are the two things equal?". When you use a single "=", that's assignment - you're setting a variable to a value.
-
+  + "==" means "are the two things equal?".
+  + "=", means assignment - you're setting a variable to a value.
 
 #Boolean Values
 False and True are special values called **booleans**. Booleans can be assigned to variables.
