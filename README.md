@@ -3,7 +3,7 @@ tags: cssi, basic python, conditional statements, booleans
 level: 1
 languages: python
 ---
-#Python Math Operations
+#Python Conditional Statements
 
 #Objectives:
 
@@ -12,7 +12,7 @@ languages: python
 + Understand what a boolean is
 
 #Motivation
-Sometimes we only want our code to run if certain conditions are in place. If a condition is there than python should run the code otherwise something else should happen.
+Sometimes we only want our code to run if certain conditions are in place. If a condition is met, then python should run the code otherwise something else should happen.
 
 #Conditionals
 Conditional statements are a type of control flow: They can control which parts of code get executed, and which do not. The basic conditional statement is the if statement:
@@ -29,8 +29,8 @@ if yourAnimal == myAnimal:
   print "That's my favorite animal, too!"
 ```
 #Comparison Operator
-  + "==" means "are the two things equal?".
-  + "=", means assignment - you're setting a variable to a value.
+  + "==" means "are these two things equal?".
+  + "=", means assignment - you're setting a variable equal to a value.
 
 #Boolean Values
 False and True are special values called **booleans**. Booleans can be assigned to variables.
@@ -47,7 +47,7 @@ Here are some important boolean operators:
 <img src= "images/boolean_table.png">
 
 #Else and Elif conditional statements
-There are a few other conditional statements that work together with if. For example, you often want to do something if the condition failed, too:
+There are a few other conditional statements that work together with if. For example, you often want to do something if the condition failed:
 ```
 yourAnimal = input('What is your favorite animal? ')
 myAnimal = "dog"
