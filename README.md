@@ -70,8 +70,13 @@ elif x < 0:
 else:
   print "x is not very interesting"
 ```
-#Student Practice
+#Student Mini Challenge
 In your practice.py try writing a conditional statement with an if condition, elsif condition and else condition
 
  * **Pick a Number:** Write a program that makes the user guess a number 1-10. If their guess is correct, tell them they've won. If their guess is too high or too low, give the user a hint. you will need to use python's `input()` method.
   * `userGuess = input('Guess a number between 1-10')`
+  
+ * **Stretch: Phone Number Validator:** Write a program that checks if a string is formatted correctly as a phone number (312)867-5309.
+  * Check if there are 10 integers
+  * Check if the first three integers are between two parenthesis
+  * Check to make sure that a dash seperates the 6th and 7th integer.
