@@ -1,8 +1,4 @@
----
-tags: cssi, basic python, conditional statements, booleans
-level: 1
-languages: python
----
+
 #Python Conditional Statements
 
 #Objectives:
