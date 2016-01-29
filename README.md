@@ -77,4 +77,4 @@ In your practice.py try writing a conditional statement with an if condition, el
   * Check if the first three integers are between two parenthesis
   * Check to make sure that a dash separates the 6th and 7th integer.
 
-<a href='https://learn.co/lessons/cssi-4.5-python-conditional-statements' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.5-python-conditional-statements' title='Python Conditional Statements'>Python Conditional Statements</a> on Learn.co and start learning to code for free.</p>
